@@ -1,0 +1,13 @@
+{
+  "name": "pixelate",
+  "version": "1.0.0",
+  "description": "node package to pixelate given image",
+  "main": "index.js",
+  "repository": "git@github.com:watchinharrison/pixelate.git",
+  "author": "David Harrison",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "canvas": "^2.6.1"
+  }
+}
